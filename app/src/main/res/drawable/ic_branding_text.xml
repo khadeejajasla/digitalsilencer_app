@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="40dp"
+    android:viewportWidth="200"
+    android:viewportHeight="40">
+    
+    <!-- STUDY (White) -->
+    <!-- S -->
+    <path android:fillColor="#80FFFFFF" android:pathData="M70,12 h8 v2 h-6 v2 h6 v2 h-8 v-2 h6 v-2 h-6 z" />
+    <!-- T -->
+    <path android:fillColor="#80FFFFFF" android:pathData="M80,12 h8 v2 h-3 v6 h-2 v-6 h-3 z" />
+    <!-- U -->
+    <path android:fillColor="#80FFFFFF" android:pathData="M90,12 v4 q0,2 2,2 q2,0 2,-2 v-4 h2 v4 q0,4 -4,4 q-4,0 -4,-4 z" />
+    <!-- D -->
+    <path android:fillColor="#80FFFFFF" android:pathData="M100,12 v10 h4 q4,0 4,-5 q0,-5 -4,-5 z M102,14 h2 q2,0 2,3 q0,3 -2,3 h-2 z" />
+    <!-- Y -->
+    <path android:fillColor="#80FFFFFF" android:pathData="M110,12 l3,4 v4 h2 v-4 l3,-4 h-2 l-2,3 l-2,-3 z" />
+
+    <!-- FOCUS (Cyan) -->
+    <!-- F -->
+    <path android:fillColor="#00E5FF" android:pathData="M75,26 h8 v2 h-6 v2 h4 v2 h-4 v4 h-2 z" />
+    <!-- O -->
+    <path android:fillColor="#00E5FF" android:pathData="M85,26 q0,-4 4,-4 q4,0 4,4 v6 q0,4 -4,4 q-4,0 -4,-4 z M87,26 v6 q0,2 2,2 q2,0 2,-2 v-6 q0,-2 -2,-2 q-2,0 -2,2 z" />
+    <!-- C -->
+    <path android:fillColor="#00E5FF" android:pathData="M97,26 v6 q0,4 4,4 h4 v-2 h-4 q-2,0 -2,-2 v-6 q0,-2 2,-2 h4 v-2 h-4 q-4,0 -4,4 z" />
+    <!-- U -->
+    <path android:fillColor="#00E5FF" android:pathData="M109,26 v6 q0,2 2,2 q2,0 2,-2 v-6 h2 v6 q0,4 -4,4 q-4,0 -4,-4 z" />
+    <!-- S -->
+    <path android:fillColor="#00E5FF" android:pathData="M121,26 h8 v2 h-6 v2 h6 v2 h-8 v-2 h6 v-2 h-6 z" />
+
+</vector>

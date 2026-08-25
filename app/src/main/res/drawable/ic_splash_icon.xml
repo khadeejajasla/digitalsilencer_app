@@ -1,0 +1,56 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="160"
+    android:viewportHeight="160">
+    
+    <group
+        android:translateX="26"
+        android:translateY="26">
+        
+        <!-- Desk (Light Wood Color) -->
+        <path
+            android:fillColor="#F6D5B5"
+            android:strokeColor="#5D4037"
+            android:strokeWidth="1.2"
+            android:strokeLineCap="round"
+            android:pathData="M15,60 L93,60 L93,108 L15,108 Z" />
+
+        <!-- Character (Ghost-like study buddy, White) -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:strokeColor="#000000"
+            android:strokeWidth="1.5"
+            android:pathData="M38,60 C38,35 70,35 70,60 Z" />
+        
+        <!-- Eyes (Simple dots, centered) -->
+        <path
+            android:fillColor="#000000"
+            android:pathData="M50.2,50 a1.2,1.2 0,1,1 2.4,0 a1.2,1.2 0,1,1 -2.4,0 M55.4,50 a1.2,1.2 0,1,1 2.4,0 a1.2,1.2 0,1,1 -2.4,0" />
+
+        <!-- Pen (Simple Blue Pen, shifted) -->
+        <path
+            android:strokeColor="#1976D2"
+            android:strokeWidth="1.8"
+            android:strokeLineCap="round"
+            android:pathData="M64,48 L69,58" />
+
+        <!-- Book (Colored Cover, centered) -->
+        <path
+            android:fillColor="#B2EBF2"
+            android:strokeColor="#00796B"
+            android:strokeWidth="1.2"
+            android:pathData="M32,60 L54,60 L54,78 L32,82 Z" />
+        <path
+            android:fillColor="#E0F7FA"
+            android:strokeColor="#00796B"
+            android:strokeWidth="1.2"
+            android:pathData="M54,60 L76,60 L76,82 L54,78 Z" />
+
+        <!-- Subtle warm glow around character head -->
+        <path
+            android:fillColor="#22FFD54F"
+            android:pathData="M54,40 m-20,0 a 20,20 0,1 1, 40 0 a 20,20 0,1 1, -40 0" />
+    </group>
+
+</vector>

@@ -1,4 +1,4 @@
-# Automatic Digital Silencer – High-Frequency Study Focus App
+# Automatic Digital Silencer – Study Focus App
 
 Automatic Digital Silencer is an Android application designed to help students reduce digital distractions during study sessions. The app identifies frequently used apps, allows users to select distracting apps, and temporarily restricts access to them during a study session.
 

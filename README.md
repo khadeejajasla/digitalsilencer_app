@@ -36,27 +36,27 @@ Automatic Digital Silencer is an Android application designed to help students r
 
 ### Home Screen
 
-<img width="720" height="1600" alt="home" src="https://github.com/user-attachments/assets/dba703f6-c1b5-4bbd-a159-0d81b720f121" width="250" />
+<img alt="home" src="https://github.com/user-attachments/assets/dba703f6-c1b5-4bbd-a159-0d81b720f121" width="250" />
 
 ### Manage Apps
 
-<img width="720" height="1600" alt="manage_apps" src="https://github.com/user-attachments/assets/1d0446bb-f00c-4e2c-8768-30797212cf17" width="250" />
+<img alt="manage_apps" src="https://github.com/user-attachments/assets/1d0446bb-f00c-4e2c-8768-30797212cf17" width="250" />
 
 ### Start Session
 
-<img width="720" height="1600" alt="start_session" src="https://github.com/user-attachments/assets/089c0cea-24a0-452e-820c-0281a7716a00" width="250" />
+<img alt="start_session" src="https://github.com/user-attachments/assets/089c0cea-24a0-452e-820c-0281a7716a00" width="250" />
 
 ### Emergency Bypass
 
-<img width="720" height="1600" alt="bypass" src="https://github.com/user-attachments/assets/e74821fc-0cf2-428c-90d2-ece079194a74" width="250" />
+<img alt="bypass" src="https://github.com/user-attachments/assets/e74821fc-0cf2-428c-90d2-ece079194a74" width="250" />
 
 ### Stop Session
 
-<img width="720" height="1600" alt="session_ongoing" src="https://github.com/user-attachments/assets/5193cab9-5031-461b-831c-688c2c77f27b" width="250" />
+<img alt="session_ongoing" src="https://github.com/user-attachments/assets/5193cab9-5031-461b-831c-688c2c77f27b" width="250" />
 
 ### Statistics
 
-<img width="720" height="1600" alt="statistics" src="https://github.com/user-attachments/assets/2638c3d2-3705-488b-892c-29ae820f3aa9" width="250" />
+<img alt="statistics" src="https://github.com/user-attachments/assets/2638c3d2-3705-488b-892c-29ae820f3aa9" width="250" />
 
 ## Purpose
 
